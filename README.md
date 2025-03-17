@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Vicenzo-S-Montefusco&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/Vicenzo-S-Montefusco=your-github-username&layout=compact&hide_title=true&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicenzo-S-Montefusco&layout=compact&hide_title=true&hide=html)
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vicenzo-S-Montefusco)
@@ -17,7 +17,7 @@
 ![Visitors Count](https://profile-counter.glitch.me/Vicenzo-S-Montefusco/count.svg)
 
 ## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/Vicenzo-S-Montefusco=your-github-username)
+![Activity Graph](https://activity-graph.herokuapp.com/?user=Vicenzo-S-Montefusco)
 
 ## Contributions Calendar
 ![Contributions Calendar](https://github.com/Vicenzo-S-Montefusco/github-readme-contributions/blob/main/images/square.svg)
